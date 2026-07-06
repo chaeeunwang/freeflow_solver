@@ -2,7 +2,7 @@
 
 Free Flow 문제 화면을 캡처해서 넣으면, 보드 격자와 색상 원을 자동으로 인식하고 퍼즐을 풀어 해답 이미지를 만들어 주는 Python 도구입니다. 웹 UI와 CLI를 둘 다 제공합니다.
 
-![처리 흐름](assets/flow-overview.svg)
+![처리 흐름](assets/flow-example.jpg)
 
 ## 주요 기능
 
